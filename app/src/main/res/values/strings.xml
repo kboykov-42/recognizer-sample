@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recognizer Sample</string>
+    <string name="results_hint">Results</string>
+    <string name="voice_volume_hint">Voice volume</string>
+    <string name="current_state_hint">Current state</string>
+    <string name="start_btn">Start</string>
+    <string name="stop_btn">Stop</string>
+    <string name="cancel_btn">Cancel</string>
+</resources>
